@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "晶切",
+      "hasCanvas": false,
+      "bodyTextLen": 270,
+      "bodyTextHash": "6057b0f92d14907a76db14d00d7c2f6444a09e6b4ce6ad84aeaf3021415e2f27",
+      "bodyTextPrefix": "晶切 GLASS ATELIER 源文件 牛排 STEAK 蔬菜 VEGETABLES 宇宙 COSMOS 牛排 水晶石英、琥珀",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "晶切",
+      "hasCanvas": false,
+      "bodyTextLen": 270,
+      "bodyTextHash": "6057b0f92d14907a76db14d00d7c2f6444a09e6b4ce6ad84aeaf3021415e2f27",
+      "bodyTextPrefix": "晶切 GLASS ATELIER 源文件 牛排 STEAK 蔬菜 VEGETABLES 宇宙 COSMOS 牛排 水晶石英、琥珀",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
